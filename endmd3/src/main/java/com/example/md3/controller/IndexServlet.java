@@ -1,6 +1,7 @@
 package com.example.md3.controller;
 
 import com.example.md3.model.LoaiMatBang;
+import com.example.md3.model.MatBang;
 import com.example.md3.model.TrangThai;
 import com.example.md3.service.LoaiMatBangService;
 import com.example.md3.service.MatBangService;
